@@ -12,7 +12,7 @@
 
 ``` [•] I'm currently learning ["Clang"]. ```
 
-```[•] Contact me on``` "https://t.me/HyperXyclic".
+```[•] Contact me on``` "https://t.me/Mika_Xyc".
 
 ``` [#] About me: ```
 
