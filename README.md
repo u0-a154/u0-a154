@@ -10,7 +10,7 @@
 
 ``` [•] I'm interested in ["Python", "JavaScript", "Clang"]. ```
 
-``` [•] I'm currently learning ["Clang"]. ```
+``` [•] I'm currently learning ["Assembly"]. ```
 
 ```[•] Contact me on``` "https://t.me/Mika_Xyc".
 
@@ -32,7 +32,7 @@
 
 ``` [?] Some of those aren't uploaded yet. ```
 
-``` [?] I'm from ňŭţŮŭŤŲŨŠ. ```
+``` [•] I'm from ňŭţŮŭŤŲŨŠ. ```
 
 ``` [#] Code: E O L ```
 
