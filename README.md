@@ -16,11 +16,11 @@
 
 ``` [#] About me: ```
 
-``` [?] I'm a coder who likes to code random miscellaneous things. ```
+``` [•] I'm a coder who likes to code random miscellaneous things. ```
 
-``` [?] I've made some tools such as: ```
+``` [•] I've made some tools such as: ```
 
-``` [-] Encryptor, ```
+``` [-] Encryptor/Decryptor/Obfuscator/Compiler, ```
 
 ``` [-] DDoS, ```
 
@@ -30,7 +30,7 @@
 
 ``` [-] Automation Tools. ```
 
-``` [?] Some of those aren't uploaded yet. ```
+``` [•] Some of those aren't uploaded yet. ```
 
 ``` [•] I'm from ňŭţŮŭŤŲŨŠ. ```
 
