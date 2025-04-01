@@ -12,7 +12,7 @@
 
 ``` [•] I'm currently learning ["Assembly"]. ```
 
-```[•] Contact me on``` "https://t.me/Equinoxxxxxxxxxxxx".
+```[•] Contact me on``` "https://t.me/null0null0null0null0null0null0".
 
 ``` [#] About me: ```
 
