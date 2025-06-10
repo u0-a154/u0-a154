@@ -4,7 +4,7 @@
 
 ``` [#] Greeting: ```
 
-``` [•] Hi, I'm Equinox. ```
+``` [•] Hi, I'm Equinox. Also known as HyperXyclic. ```
 
 ``` [•] My original name is "u0-a154", wich is actually my UserAgent ID. ```
 
@@ -12,7 +12,7 @@
 
 ``` [•] I'm currently learning ["Assembly"]. ```
 
-```[•] Contact me at``` "https://t.me/null0null0null0null0null0null0".
+```[•] Contact me at``` "https://t.me/TheRealNull0".
 
 ``` [#] About me: ```
 
