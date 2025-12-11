@@ -8,9 +8,9 @@
 
 ``` [•] My original name is "u0-a154", wich is actually my UserAgent ID. ```
 
-``` [•] I'm interested in ["Python", "JavaScript", "Clang"]. ```
+``` [•] I'm interested in ["Python", "JavaScript", "Clang", "Assembly", "LOLCODE", "COBOL", "Intercal", "Ruby"]. ```
 
-``` [•] I'm currently learning ["Assembly"]. ```
+``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme"]. ```
 
 ```[•] Contact me at``` "https://t.me/TheRealNull".
 
