@@ -4,7 +4,7 @@
 
 ``` [#] Greeting: ```
 
-``` [•] Hi, I'm Equinox. Also known as HyperXyclic. ```
+``` [•] Hi, I'm Equinox. Also known as HyperXyclic or Rainshatterr.```
 
 ``` [•] My original name is "u0-a154", wich is actually my UserAgent ID. ```
 
