@@ -4,11 +4,11 @@
 
 ``` [#] Greeting: ```
 
-``` [•] Hi, I'm Equinox. Also known as HyperXyclic or Rainshatterr.```
+``` [•] Hi, I'm Equinox. Also known as HyperXyclic, Rainshatterr, or PluviaChan.```
 
 ``` [•] My original name is "u0-a154", wich is actually my UserAgent ID. ```
 
-``` [•] I'm interested in ["Python", "JavaScript", "Clang", "PHP", "Assembly", "LOLCODE", "COBOL", "Intercal", "Ruby"]. ```
+``` [•] I'm interested in ["Python", "JavaScript", "C languages", "PHP", "Assembly", "LOLCODE", "COBOL", "Intercal", "Ruby"]. ```
 
 ``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme"]. ```
 
