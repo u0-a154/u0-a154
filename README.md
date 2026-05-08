@@ -12,7 +12,7 @@
 
 ``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme"]. ```
 
-```[•] Contact me at``` "https://t.me/TheRealNull".
+```[•] Contact me at``` "https://t.me/PluviaChan".
 
 ``` [#] About me: ```
 
