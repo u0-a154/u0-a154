@@ -4,35 +4,37 @@
 
 ``` [#] Greeting: ```
 
-``` [•] Hi, I'm Equinox. Also known as HyperXyclic, Rainshatterr, or PluviaChan.```
+``` [•] Hi, I'm Core. Also known as Equinox, HyperXyclic, Rainshatterr, or PluviaChan.```
 
-``` [•] My original name is "u0-a154", wich is actually my UserAgent ID. ```
+``` [•] My original name is "u0-a154", which is actually my UserAgent ID. ```
 
-``` [•] I'm interested in ["Python", "JavaScript", "C languages", "PHP", "Assembly", "LOLCODE", "COBOL", "Intercal", "Ruby"]. ```
+``` [•] I'm interested in ["Python", "JavaScript", "C languages", "PHP", "Assembly", "LOLCODE", "COBOL", "Intercal", "Ruby", "LoliScript"]. ```
 
-``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme"]. ```
+``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme", "LoliCode"]. ```
 
-```[•] Contact me at``` "https://t.me/PluviaChan".
+``` [•] Contact me at``` "https://t.me/PluviaChan".
 
 ``` [#] About me: ```
 
-``` [•] I'm a coder who likes to code random miscellaneous things. ```
+``` [•] I'm a coder who likes to code random miscellaneous things that i feel like doing or what i need. ```
+
+``` [•] I'm an INTx-T 5w4 549 Sp/Sx. ```
+
+``` [•] I'm from ňŭţŮŭŤŲŨŠ. ```
 
 ``` [•] I've made some tools such as: ```
 
-``` [-] Encryptor/Decryptor/Obfuscator/Compiler, ```
+``` [+] Encryptor/Decryptor/Obfuscator/Compiler, ```
 
-``` [-] DDoS, ```
+``` [+] DDoS, ```
 
-``` [-] OTP Spam Attack, ```
+``` [+] OTP Spam Attack, ```
 
 ``` [-] OSINT Tools, ```
 
-``` [-] Automation Tools. ```
+``` [+] Automation Tools. ```
 
 ``` [•] Some of those aren't uploaded yet. ```
-
-``` [•] I'm from ňŭţŮŭŤŲŨŠ. ```
 
 ``` [#] Code: E O L ```
 
