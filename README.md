@@ -4,7 +4,7 @@
 
 ``` [#] Greeting: ```
 
-``` [•] Hi, I'm Core. Also known as Equinox, HyperXyclic, Rainshatterr, or PluviaChan.```
+```[•] Hi, I'm Core. Also known as Equinox, HyperXyclic, Rainshatterr, or PluviaChan.```
 
 ``` [•] My original name is "u0-a154", which is actually my UserAgent ID. ```
 
@@ -12,7 +12,7 @@
 
 ``` [•] I'm currently learning ["Malbolge", "Forth", "Scheme", "LoliCode"]. ```
 
-``` [•] Contact me at``` "https://t.me/PluviaChan".
+```[•] Contact me at``` "https://t.me/PluviaChan".
 
 ``` [#] About me: ```
 
@@ -30,7 +30,7 @@
 
 ``` [+] OTP Spam Attack, ```
 
-``` [-] OSINT Tools, ```
+``` [+] OSINT Tools, ```
 
 ``` [+] Automation Tools. ```
 
